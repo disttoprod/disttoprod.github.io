@@ -1,0 +1,6 @@
+baseURL: https://disttoprod.github.io
+languageCode: en-us
+title: Dist-To-Prod
+theme: "PaperMod"
+
+enableRobotsTXT: true
