@@ -13,7 +13,8 @@
       <link>https://disttoprod.github.io/posts/helloworld/</link>
       <pubDate>Sun, 19 May 2024 19:48:34 +0530</pubDate>
       <guid>https://disttoprod.github.io/posts/helloworld/</guid>
-      <description>Hello, World!</description>
+      <description>Hello, World!
+This is the first blog.</description>
     </item>
   </channel>
 </rss>
